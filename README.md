@@ -74,6 +74,8 @@ $ pip3 install numpy
 - 矩阵运算
 - 文件存取
 
+A Cocise Coursebook of Numpy.ipynb是以前学习numpy的jupyter文档，留个纪念~
+
 ## Scipy
 
 基于scipy包
