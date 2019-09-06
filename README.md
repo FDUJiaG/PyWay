@@ -49,7 +49,13 @@ $ conda install networkx
 | Graph相关算法.ipynb    | jupyter文档，networkx中内置算法的实例，主要包括，最短路径，最小/大生成树，拓扑排序，最大流，最小费用最大流，广度优先与深度优先 |
 | networkx_reference.pdf | pdf文档，networkx官方参考                                    |
 
-# 科学计算
+# [DataAnalysis](https://github.com/FDUJiaG/PyWay/tree/master/DataAnalysis)
+
+原示例为python 2.x，目前已经全部更新，并在python 3.7版本试验过，基于Ipython
+
+```shell
+$ pip3 install ipython
+```
 
 ## Numpy
 
@@ -60,12 +66,6 @@ $ pip3 install numpy
 ```
 
 整理为一个markdown。
-
-原示例为python 2.x，目前已经全部更新，并在python 3.7版本试验过，基于Ipython
-
-```shell
-$ pip3 install ipython
-```
 
 **主要内容包括**：
 
